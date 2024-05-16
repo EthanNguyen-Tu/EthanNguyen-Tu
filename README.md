@@ -17,7 +17,6 @@ In my free time, I enjoy reading fantasy and action genre book series 📚 and p
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img align="left" alt="postgre" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/>
 <br><br>
 
 ##
@@ -28,7 +27,7 @@ I enjoy learning a variety of topics, especially if they are related to economic
 #### Currently Learning:
 <ol>
   <li><img alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> | HTML5</li>
-  <li><img alt="stock market" width="30px" src="https://github.com/EthanNguyen-Tu/EthanNguyen-Tu/blob/main/assets/img/money-bill-trend-up-icon.svg"/> | Stock Market</li>
   <li><img alt="typescript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/> | TypeScript</li>
   <li><img alt="react" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/> | React</li>
+  <li><img alt="Ruby" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/> | Ruby</li>
 </ol>
