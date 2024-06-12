@@ -38,3 +38,24 @@ I enjoy learning a variety of topics, especially if they are related to economic
   <li><img alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> | HTML5</li>
   <li><img alt="Ruby" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"/> | Ruby</li>
 </ol>
+
+##
+
+### Account Stats
+<!-- Dark Mode -->
+<a href="https://github.com/EthanNguyen-Tu#gh-dark-mode-only">
+  <!-- Profile Stats -->
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=EthanNguyen-Tu&show_icons=true&theme=dark#gh-dark-mode-only" alt="EthanNguyen-Tu's GitHub Stats" />
+  <br></br>
+  <!-- Language Stats -->
+  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&layout=compact&theme=dark#gh-dark-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
+</a>
+
+<!-- Light Mode -->
+<a href="https://github.com/EthanNguyen-Tu#gh-light-mode-only">
+  <!-- Profile Stats -->
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=EthanNguyen-Tu&show_icons=true&theme=light#gh-light-mode-only" alt="EthanNguyen-Tu's GitHub Stats" />
+  <br></br>
+  <!-- Language Stats -->
+  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&layout=compact&theme=light#gh-light-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
+</a>
