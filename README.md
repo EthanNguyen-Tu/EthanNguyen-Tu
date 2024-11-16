@@ -17,10 +17,10 @@ In my free time, I enjoy reading fantasy and action genre book series 📚 and p
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>](https://docs.oracle.com/en/java/)
 [<img align="left" alt="LaTex" width="30px" style="padding-right:10px;" src="https://github.com/EthanNguyen-Tu/EthanNguyen-Tu/blob/main/assets/img/latex-icon.svg"/>](https://www.latex-project.org/)
 [<img x="0" y="30" align="left" alt="Markdown" height="30px" width="30px" style="padding-right:10px;" src="https://github.com/EthanNguyen-Tu/EthanNguyen-Tu/blob/main/assets/img/markdown-mark-solid.svg"/>](https://www.markdownguide.org/)
-[<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>](https://git-scm.com/)
 [<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
 [<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
 [<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview)
+[<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>](https://git-scm.com/)
 [<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>](https://www.postgresql.org/)
 [<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>](https://www.docker.com/)
 [<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/>](https://unity.com/)
@@ -56,7 +56,7 @@ I enjoy learning a variety of topics, especially if they are related to economic
 
 ##
 
-### Account Stats
+### Account Stats 🧮
 
 <!-- Dark Mode -->
 <a href="https://github.com/EthanNguyen-Tu#gh-dark-mode-only">
