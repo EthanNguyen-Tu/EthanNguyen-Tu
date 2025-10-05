@@ -61,11 +61,11 @@ I enjoy learning a variety of topics, especially if they are related to economic
 <!-- Dark Mode -->
 <a href="https://github.com/EthanNguyen-Tu#gh-dark-mode-only">
   <!-- Language Stats -->
-  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&layout=compact&theme=dark#gh-dark-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
+  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&hide=jupyter%20notebook&layout=compact&theme=dark#gh-dark-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
 </a>
 
 <!-- Light Mode -->
 <a href="https://github.com/EthanNguyen-Tu#gh-light-mode-only">
   <!-- Language Stats -->
-  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&layout=compact&theme=light#gh-light-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
+  <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyen-Tu&hide=jupyter%20notebook&layout=compact&theme=light#gh-light-mode-only" alt="EthanNguyen-Tu's Most Used Repository Coding Languages" />
 </a>
